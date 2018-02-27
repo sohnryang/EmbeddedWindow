@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedWindow", "EmbeddedWindow\EmbeddedWindow.csproj", "{6143059C-24CD-41F1-8B43-BA46D8693BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6143059C-24CD-41F1-8B43-BA46D8693BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6143059C-24CD-41F1-8B43-BA46D8693BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6143059C-24CD-41F1-8B43-BA46D8693BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6143059C-24CD-41F1-8B43-BA46D8693BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77A4DEA-66D4-42D5-928C-225F77F606B2}
+	EndGlobalSection
+EndGlobal
